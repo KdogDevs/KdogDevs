@@ -1,4 +1,4 @@
-### Hello World
+### Welcome
 
 
 
@@ -18,14 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-if you wanna check out my website visit [kdog4u][1]
+if you wanna check out my website, visit [kdog4u][1]
 
 [1]: Https://kdog4u.com  "Kdog4u"
 
 
-
-
-```
-Scanner scan = new scanner System.in
-
-```
