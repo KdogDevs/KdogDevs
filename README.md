@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-When I first research something I look at [Wikipedia][1] then at [Google][2] then [Wookiepedia][3].
+if you wanna check out my website visit [kdog4u][1]
 
-[1]: https://wikipedia.org            "Wikipedia"
-[2]: https://google.com               "Google"
-[3]: https://starwars.fandom.com      "Wookiepedia"
+[1]: Https://kdog4u.com  "Kdog4u"
 
-kdog4u.com
+
+
 
 ```
 Scanner scan = new scanner System.in
