@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+When I first research something I look at [Wikipedia][1] then at [Google][2] then [Wookiepedia][3].
 
+[1]: https://wikipedia.org            "Wikipedia"
+[2]: https://google.com               "Google"
+[3]: https://starwars.fandom.com      "Wookiepedia"
 
 kdog4u.com
 
