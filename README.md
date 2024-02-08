@@ -1,6 +1,6 @@
 ### Hello World
 
-kdog4u.com
+
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-
+kdog4u.com
 
 ```
 Scanner scan = new scanner System.in
